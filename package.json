@@ -1,0 +1,25 @@
+{
+  "name": "gulp-version-replace",
+  "version": "1.0.3",
+  "description": "Gulp extension to add license to file(s) in the pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Davidxiaoyang/gulp-version-replace.git"
+  },
+  "keywords": [
+    "entry",
+    "point:",
+    "(index.js)"
+  ],
+  "author": "test command: echo \\\"Error: no test specified\\\" && exit 1",
+  "license": "MIT",
+  "devDependencies": {
+    "event-stream": "^3.3.3",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
+}
